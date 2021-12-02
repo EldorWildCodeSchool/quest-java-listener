@@ -1,3 +1,5 @@
+package main.src;
+
 public class Bank {
 
     private int total;
